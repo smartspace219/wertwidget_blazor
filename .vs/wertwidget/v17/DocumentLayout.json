@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zz\\wertwidget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\scripts\\mainwert.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\scripts\\mainwert.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\pages\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\pages\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\wwwroot\\scripts\\mainwert-bandle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\wwwroot\\scripts\\mainwert-bandle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\npmjs\\src\\mainwert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\npmjs\\src\\mainwert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\npmjs\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\npmjs\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\npmjs\\src\\mainwert.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\npmjs\\src\\mainwert.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\wertwidget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\wertwidget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|d:\\zz\\wertwidget\\wertwidget\\npmjs\\node_modules\\@wert-io\\widget-initializer\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{33A19D95-D2A7-49DA-BBEA-3E974BBF928B}|wertwidget\\wertwidget.csproj|solutionrelative:wertwidget\\npmjs\\node_modules\\@wert-io\\widget-initializer\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Component1.razor",
+              "RelativeDocumentMoniker": "wertwidget\\Pages\\Component1.razor",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Component1.razor",
+              "RelativeToolTip": "wertwidget\\Pages\\Component1.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:57:43.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "wertwidget\\Pages\\FetchData.razor",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Pages\\FetchData.razor",
+              "RelativeToolTip": "wertwidget\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:57:47.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "wertwidget\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Error.cshtml",
+              "RelativeToolTip": "wertwidget\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:57:45.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "wertwidget\\Pages\\Counter.razor",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Counter.razor",
+              "RelativeToolTip": "wertwidget\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:57:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainwert.ts",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Scripts\\mainwert.ts",
+              "RelativeDocumentMoniker": "wertwidget\\Scripts\\mainwert.ts",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Scripts\\mainwert.ts",
+              "RelativeToolTip": "wertwidget\\Scripts\\mainwert.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowCwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-28T19:56:43.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Component.razor",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "wertwidget\\Pages\\Component.razor",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Component.razor",
+              "RelativeToolTip": "wertwidget\\Pages\\Component.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T19:56:42.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "wertwidget\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "wertwidget\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T19:56:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mainwert.js",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\NPMJS\\src\\mainwert.js",
+              "RelativeDocumentMoniker": "wertwidget\\NPMJS\\src\\mainwert.js",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\NPMJS\\src\\mainwert.js",
+              "RelativeToolTip": "wertwidget\\NPMJS\\src\\mainwert.js",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-28T19:56:40.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mainwert-bandle.js",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\wwwroot\\Scripts\\mainwert-bandle.js",
+              "RelativeDocumentMoniker": "wertwidget\\wwwroot\\Scripts\\mainwert-bandle.js",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\wwwroot\\Scripts\\mainwert-bandle.js",
+              "RelativeToolTip": "wertwidget\\wwwroot\\Scripts\\mainwert-bandle.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATMgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-28T21:03:32.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mainwert.js.map",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\NPMJS\\src\\mainwert.js.map",
+              "RelativeDocumentMoniker": "wertwidget\\NPMJS\\src\\mainwert.js.map",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\NPMJS\\src\\mainwert.js.map",
+              "RelativeToolTip": "wertwidget\\NPMJS\\src\\mainwert.js.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACbSURBVDhPY2SAgm/fvv2HMrGBD0DsyMXFdQHChYL///\u002BjGODj4wPloQIXFxeGgoICrIYwQWm8YM\u002BePQwTJkwQADL3Ay0ygIhCAFYXrFu7HkzDQFBwIJjG5hKcLgBpgmmEAWSXQESIdAEMwAzcsmULA9AFYL0EXYDNJcgApwEgVyBjXGDUBTiikRAgKhqJBSgugDKJAjAXUAgYGAACRGV6yheEQwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-28T20:50:28.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "wertwidget\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "wertwidget\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T19:56:42.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "wertwidget\\Pages\\Index.razor",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Pages\\Index.razor",
+              "RelativeToolTip": "wertwidget\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T19:56:42.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\NPMJS\\package.json",
+              "RelativeDocumentMoniker": "wertwidget\\NPMJS\\package.json",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\NPMJS\\package.json",
+              "RelativeToolTip": "wertwidget\\NPMJS\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T19:56:43.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wertwidget.csproj",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\wertwidget.csproj",
+              "RelativeDocumentMoniker": "wertwidget\\wertwidget.csproj",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\wertwidget.csproj",
+              "RelativeToolTip": "wertwidget\\wertwidget.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T19:56:43.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\App.razor",
+              "RelativeDocumentMoniker": "wertwidget\\App.razor",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\App.razor",
+              "RelativeToolTip": "wertwidget\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T20:26:24.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Program.cs",
+              "RelativeDocumentMoniker": "wertwidget\\Program.cs",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Program.cs",
+              "RelativeToolTip": "wertwidget\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:38:52.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.d.ts",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\NPMJS\\node_modules\\@wert-io\\widget-initializer\\index.d.ts",
+              "RelativeDocumentMoniker": "wertwidget\\NPMJS\\node_modules\\@wert-io\\widget-initializer\\index.d.ts",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\NPMJS\\node_modules\\@wert-io\\widget-initializer\\index.d.ts",
+              "RelativeToolTip": "wertwidget\\NPMJS\\node_modules\\@wert-io\\widget-initializer\\index.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-28T19:56:43.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "wertwidget\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "wertwidget\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T19:56:43.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\zz\\wertwidget\\wertwidget\\tsconfig.json",
+              "RelativeDocumentMoniker": "wertwidget\\tsconfig.json",
+              "ToolTip": "D:\\zz\\wertwidget\\wertwidget\\tsconfig.json",
+              "RelativeToolTip": "wertwidget\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T19:56:58.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

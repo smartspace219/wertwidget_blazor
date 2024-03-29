@@ -1,0 +1,46 @@
+﻿@page "/wert"
+@using System.Runtime.InteropServices
+
+<h3>Component</h3>
+<div id="divbutten">
+    <input type="number" hidden="hidden" id="amount" value="100" />
+    <input type="hidden" id="clickid" />
+</div>
+<div id="openWert"></div>
+@* <button class="btn btn-info" onclick="OpenWidget">Open Wert.io Widget</button> *@
+<script type="module" src="/Scripts/mainwert-bandle.js"></script>
+@code {
+
+    // [DllImport("~/lib/wert-io/widget-initializer", EntryPoint = "WertWidget.open")]
+    // private static extern void OpenWidget(object options);
+
+    // private void OpenWidget()
+    // {
+    //     var options = new
+    //     {
+    //         partner_id = "01HJ3VMM454XKA737WAEQQEJV9", // Replace with your Sandbox Partner ID
+    //         click_id = Guid.NewGuid().ToString(), // Generate a unique click ID
+    //                                               // ... other options as before ...
+    //     };
+
+    //     OpenWidget(options);
+    // }
+
+    // private void OpenWidgetHandler()
+    // {
+    //     var options = new
+    //     {
+    //         partner_id = "01HJ3VMM454XKA737WAEQQEJV9",
+    //         click_id = Guid.NewGuid().ToString(),
+    //         // ... other options as before ...
+    //     };
+
+    //     OpenWidget(options);
+    // }
+
+    // protected override void OnInitialized()
+    // {
+    //     OnClick = EventCallback.Factory.Create(this, OpenWidgetHandler);
+    // }
+}
+

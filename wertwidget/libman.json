@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@wert-io/widget-initializer@6.1.0",
+      "destination": "wwwroot/lib/wert-io/widget-initializer/"
+    },
+    {
+      "library": "@wert-io/widget-sc-signer@2.0.1",
+      "destination": "wwwroot/lib/wert-io/widget-sc-signer/"
+    },
+    {
+      "library": "uuid@9.0.1",
+      "destination": "wwwroot/lib/uuid/"
+    }
+  ]
+}
